@@ -20,6 +20,6 @@ module SV_Types();
 
 	end
 
-	//Extra
+	//Extra stuff
 
 endmodule : SV_Types
